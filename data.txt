@@ -1,0 +1,8 @@
+foodidCache.size=100
+foodidCache.size=100
+HeapBuffer[pos=0 lim=266 cap=2048: 50 4F 53 54 20 2F 6C 6F 67 69 6E 20 48 54 54 50...]
+HeapBuffer[pos=0 lim=266 cap=2048: 50 4F 53 54 20 2F 6C 6F 67 69 6E 20 48 54 54 50...]
+HeapBuffer[pos=0 lim=266 cap=2048: 50 4F 53 54 20 2F 6C 6F 67 69 6E 20 48 54 54 50...]
+HeapBuffer[pos=0 lim=225 cap=2048: 50 4F 53 54 20 2F 6C 6F 67 69 6E 20 48 54 54 50...]
+HeapBuffer[pos=0 lim=244 cap=2048: 50 4F 53 54 20 2F 6C 6F 67 69 6E 20 48 54 54 50...]
+HeapBuffer[pos=0 lim=173 cap=2048: 47 45 54 20 2F 66 6F 6F 64 73 20 48 54 54 50 2F...]

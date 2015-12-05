@@ -1,0 +1,18 @@
+{
+  "test_carts.py::test_new_carts": true, 
+  "test_errors.py::test_auth_error": true, 
+  "test_errors.py::test_empty_request_error": true, 
+  "test_errors.py::test_malformed_json_error": true, 
+  "test_foods.py::test_foods": true, 
+  "test_login.py::test_login_error_password": true, 
+  "test_login.py::test_login_post_data": true, 
+  "test_login.py::test_login_success": true, 
+  "test_orders.py::test_add_food_error": true, 
+  "test_orders.py::test_add_food_exceed_limit_error": true, 
+  "test_orders.py::test_add_food_not_exists_error": true, 
+  "test_orders.py::test_add_food_success": true, 
+  "test_orders.py::test_del_food_success": true, 
+  "test_orders.py::test_food_stock_consistency": true, 
+  "test_orders.py::test_get_orders": true, 
+  "test_orders.py::test_make_order": true
+}

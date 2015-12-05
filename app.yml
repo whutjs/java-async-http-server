@@ -1,0 +1,5 @@
+language: java
+script:
+  - echo $JAVA_HOME
+  - $JAVA_HOME/bin/javac -cp /vagrant/lib/minimal-json-0.9.1.jar:/vagrant/lib/mysql-connector-java-5.1.37-bin.jar:/vagrant/lib/commons-pool2-2.4.2.jar:/vagrant/lib/jedis-2.7.3.jar:/vagrant/lib/commons-dbcp2-2.1.1.jar:/vagrant/lib/commons-logging-1.2.jar /vagrant/src/*.java
+  - $JAVA_HOME/bin/java -server  -cp /vagrant/lib/minimal-json-0.9.1.jar:/vagrant/lib/mysql-connector-java-5.1.37-bin.jar:/vagrant/lib/commons-pool2-2.4.2.jar:/vagrant/lib/jedis-2.7.3.jar:/vagrant/lib/commons-dbcp2-2.1.1.jar:/vagrant/lib/commons-logging-1.2.jar:/vagrant/src Run $APP_HOST $APP_PORT $DB_HOST $DB_PORT $DB_NAME $DB_USER $DB_PASS $REDIS_HOST $REDIS_PORT

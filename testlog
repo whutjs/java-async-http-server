@@ -1,0 +1,335 @@
+/usr/lib/jvm/java-8-openjdk-amd64
+serverIdx=4
+SERVER_COMPLETE_KEY:true
+connection:/11.11.1.104:50682
+request=POST /carts HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 0
+Accept-Encoding: gzip, deflate
+Access-Token: 4215
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+
+-------------------------------------
+
+
+connection:/11.11.1.104:50688
+request=POST /carts HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 0
+Accept-Encoding: gzip, deflate
+Access-Token: 28377
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+
+-------------------------------------
+
+
+connection:/11.11.1.104:50694
+request=PATCH /carts/945901 HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 27
+Accept-Encoding: gzip, deflate
+Access-Token: 28377
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"count": 1, "food_id": 35}
+-------------------------------------
+
+
+connection:/11.11.1.104:50700
+request=POST /carts HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 0
+Accept-Encoding: gzip, deflate
+Access-Token: 6102
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+
+-------------------------------------
+
+
+connection:/11.11.1.104:50706
+request=PATCH /carts/203401 HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 27
+Accept-Encoding: gzip, deflate
+Access-Token: 6102
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"count": 1, "food_id": 20}
+-------------------------------------
+
+
+connection:/11.11.1.104:50712
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 69
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "fbaup", "password": "16edffbab7fd42a49ccc93695903a793"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50718
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 70
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "ihoelt", "password": "324cce7d4419472fa0e09c1bb376bd40"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50724
+request=PATCH /carts/614701 HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 27
+Accept-Encoding: gzip, deflate
+Access-Token: 24447
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"count": 1, "food_id": 44}
+-------------------------------------
+
+
+connection:/11.11.1.104:50730
+request=GET /foods HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+
+
+-------------------------------------
+
+
+connection:/11.11.1.104:50736
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 71
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "qlgauec", "password": "b129e38928194d6fa5ac47bbb0ea3255"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50742
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 70
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "pfyzn", "password": "08223baec2ed4fb69d8cf8ceef98f6320"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50748
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 72
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "hhbxmjvu", "password": "91e231dddaf142d8af7126165224b9f6"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50754
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 72
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "plrjyruz", "password": "8a7326acefda47868ed557d9656c68da"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50760
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 72
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "wqgkefxu", "password": "c35cd4f7044441db8ada193845a1aa61"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50766
+request=POST /orders HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 21
+Accept-Encoding: gzip, deflate
+Access-Token: 29361
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"cart_id": "978701"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50772
+request=POST /orders HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 21
+Accept-Encoding: gzip, deflate
+Access-Token: 29361
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"cart_id": "978701"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50778
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 72
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "mmrrsyjq", "password": "45cb6b1ded184f199c6a09b943e790f4"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50784
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 69
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "lkxsd", "password": "61a0432c02ea4602b26140f30c440a47"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50790
+request=POST /orders HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 21
+Accept-Encoding: gzip, deflate
+Access-Token: 23316
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"cart_id": "777202"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50796
+request=POST /carts HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 0
+Accept-Encoding: gzip, deflate
+Access-Token: 10425
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+
+-------------------------------------
+
+
+connection:/11.11.1.104:50802
+request=POST /login HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 69
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"username": "koaox", "password": "3ef1df0614884058bba3ff4227e1d9e3"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50808
+request=POST /orders HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 21
+Accept-Encoding: gzip, deflate
+Access-Token: 27792
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"cart_id": "926401"}
+-------------------------------------
+
+
+connection:/11.11.1.104:50814
+request=PATCH /carts/802402 HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Length: 27
+Accept-Encoding: gzip, deflate
+Access-Token: 24072
+Accept: */*
+User-Agent: python-requests/2.8.1
+Connection: keep-alive
+Content-type: application/json
+
+{"count": 3, "food_id": 59}
+-------------------------------------
+
+

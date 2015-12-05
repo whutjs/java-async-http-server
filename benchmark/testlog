@@ -1,0 +1,23 @@
+Score:                297
+Correct Rate:         100.0%
+
+Stats
+Concurrent Level:     10 x 100
+Time taken for tests: 49152.34ms
+Complete requests:    60000
+Failed requests:      0
+Complete orders:      10000
+Failed orders:        0
+Time per request:     287.24ms (mean)
+Time per order:       2557.68ms (mean)
+Request per second:   1468 (max) 710 (min) 1215 (mean)
+Order per second:     297 (max) 71 (min) 205 (mean)
+
+Percentage of orders made within a certain time (ms)
+  50%      2487
+  75%      3259
+  80%      3424
+  90%      3918
+  95%      4362
+  98%      4902
+ 100%      8068
